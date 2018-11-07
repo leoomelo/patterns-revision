@@ -6,7 +6,6 @@ import quack.QuackBehavior;
 public abstract class Duck {
 	
 	FlyBehavior flyBehavior;
-	
 	QuackBehavior quackBehavior;
 
 	public abstract void display();
